@@ -21,6 +21,7 @@ Project is created using:
 Click on GIF to see higher quality version:
 ![git-portfolio-gen](https://user-images.githubusercontent.com/78329298/114286600-1a3b0b80-9a15-11eb-867b-0456f212796c.gif)
 
+Final app should look something like this:
 ![Screen Shot 2021-04-09 at 5 17 18 PM](https://user-images.githubusercontent.com/78329298/114286726-31c6c400-9a16-11eb-9a14-8d132ff3fae1.png)
 
 ## **_Installation_**
