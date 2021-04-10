@@ -18,7 +18,11 @@ Project is created using:
 * Nodejs
 
 ## **_Usage_**
-https://user-images.githubusercontent.com/78329298/114257965-3c328080-9978-11eb-91c7-701bdfa9fb46.mov
+![Uploading Recording of portfolio generator  (1).gif…]()
+
+![Uploading git-portfolio-gen.gif…]()
+
+
 
 ## **_Installation_**
 Here are some guidelines for installing the project on your local machine in order to be able to try it: 
