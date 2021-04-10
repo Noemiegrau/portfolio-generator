@@ -3,7 +3,8 @@
 ## **_Table of contents_**
 * [Description of the project](#description-of-the-project)
 * [Technologies used](#technologies-used)
-* [Video](#video)
+* [Usage](#usage)
+* [Installation](#installation)
 * [Link URL to GitHub Repository](#link-URL-to-GitHub-repository)
 
 ## **_Description of the project_**
@@ -16,8 +17,19 @@ Project is created using:
 * JavaScript
 * Nodejs
 
-## **_Video_**
+## **_Usage_**
 
+
+## **_Installation_**
+Here are some guidelines for installing the project on your local machine in order to be able to try it: 
+
+1. Since Node.js applications don't have a front end, clone or download the repository to your own local machine and run it from your command line.
+
+2. Make sure that your repo includes a package.json with the required dependencies. You can create one by running ```npm init``` in your command line.
+
+3. Make sure to download Inquirer.js by entering "npm install inquirer" in your terminal in the root directory of the project after downloading it onto your local machine. Learn more about this on [npm documentation.](https://www.npmjs.com/package/inquirer)
+
+4. Enjoy and don't hesitate to contribute!
 
 ## **_Link URL to GitHub Repository_**
 https://github.com/Noemiegrau/portfolio-generator
