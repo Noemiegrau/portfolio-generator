@@ -126,6 +126,7 @@ Add a New Project
     });
 };
 
+//SEE EASIER VERSION IN LESSON 9.5.3
 promptUser()
   .then(promptProject)
   .then(portfolioData => {
