@@ -33,7 +33,7 @@ Here are some guidelines for installing the project on your local machine in ord
 
 3. Make sure to download Inquirer.js by entering "npm install inquirer" in your terminal in the root directory of the project after downloading it onto your local machine. Learn more about this on [npm documentation.](https://www.npmjs.com/package/inquirer)
 
-4. Run ```node <index.js>``` in your terminal to launch the application, the first question will appear in your terminal. 
+4. Run ```node <index.js>``` in your terminal in the ```Develop file``` of the project to launch the application, the first question will appear in your terminal. 
 
 5. Enjoy and don't hesitate to contribute!
 
